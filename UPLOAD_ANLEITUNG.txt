@@ -1,0 +1,7 @@
+1. ZIP entpacken.
+2. Im GitHub-Repository die Dateien und Ordner aus diesem Paket hochladen.
+3. Vorhandene Dateien gleichen Namens ersetzen.
+4. Darauf achten, dass die Ordner exakt Data und Scripts heißen.
+5. Unter Actions den Workflow „SMARD-, Gas- und CO2-Daten aktualisieren“ manuell starten.
+6. Im öffentlichen Repository liegen EEX-Daten nur im Workflow-Artefakt.
+7. Für eine dauerhaft wachsende TTF-Historie ein privates Repository verwenden.
